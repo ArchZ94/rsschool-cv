@@ -28,5 +28,15 @@ Hello! I am a hardworking and very ambitious young man who claims to be a Junior
 
 I studied on paid courses on front end where I created a game on JS with the help of canvas, the code can be viewed on my [GitHub](http://github.com): https://github.com/ArchZ94
 
+## Education
+
+* Minsk State Higher Radio Engineering College in 2011 - 2014;
+* Belarusian State University of Informatics and Radioelectronics in 2014 - 2016;
+* StreamLine courses on English (Elementary level) in 2016 - 2017;
+* Minsk Theological college in 2017 - 2018;
+* SkillUP courses on front end dev. in 2019;
+
+
+
 
 
