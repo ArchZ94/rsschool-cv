@@ -24,5 +24,9 @@ Hello! I am a hardworking and very ambitious young man who claims to be a Junior
 
 [GitHub](http://github.com): https://github.com/ArchZ94
 
+## Experience 
+
+I studied on paid courses on front end where I created a game on JS with the help of canvas, the code can be viewed on my [GitHub](http://github.com): https://github.com/ArchZ94
+
 
 
