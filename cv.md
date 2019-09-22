@@ -36,7 +36,7 @@ I studied on paid courses on front end where I created a game on JS with the hel
 * Minsk Theological college in 2017 - 2018;
 * SkillUP courses on front end dev. in 2019;
 
+## English
 
-
-
-
+At the moment, my level of English pre-intermediate+. 
+I studied English in depth at StreamLine courses. Then he began to study independently using Internet resources. Quite often I practice speaking with native speakers.
